@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/go-redis/redis/v7"
-	"github.com/lichao-mobanche/bloom-filter-redis/bloom"
+	"github.com/lilixiaoyi/bloom-filter-redis/bloom"
 	"os"
 )
 
